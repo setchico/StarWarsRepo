@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![https://static.wikia.nocookie.net/starwars/images/c/c7/TIEfighter-Fathead.png/revision/latest/scale-to-width-down/250?cb=20161109041343](TIE Figther)
+![https://e7.pngegg.com/pngimages/826/696/png-clipart-grand-admiral-thrawn-darda-osijek-tie-fighter-star-wars-star-wars-angle-film.png](TIE Figther)
 
 Este repositório serve de exempli para o curso de Git e Github
 
